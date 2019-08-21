@@ -3,7 +3,7 @@
 ### Instalasi
 ----
 Membutuhkan [Node.js](https://nodejs.org/) minimal ES7.
-Install dan memulai server :
+Install dan menjalankan aplikasi :
 
 ```sh
 $ git clone https://github.com/BlackhatCode/Reverse-IP-Tools.git
